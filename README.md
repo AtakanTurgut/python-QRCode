@@ -8,7 +8,7 @@ pip install qrcode
 ```
 We enter whatever we want to define in the QR code, we write it in ' img = qrcode.make('linkOrOther') '.
 After the generate, we write the name and extension of the image in ' img.save('lastNameQRCode.jpg') '.
-<br/>
-<div>
+<p/>
+    
       ![](/iLoveThisPlaylist.jpg)
-</div>
+
